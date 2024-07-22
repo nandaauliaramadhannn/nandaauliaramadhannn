@@ -26,7 +26,7 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 ## 🌟 GitHub Stats
 
-![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandaauliaramadhannn&show_icons=true&theme=radical)
 
 
 
