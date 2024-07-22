@@ -16,16 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in PHP, 
 
 I'm continuously expanding my knowledge and exploring new areas in software development. Currently, I'm diving deeper into cloud-native development and microservices architecture.
 
-## 💼 Projects
-
-### Project 1: Online Store
-An e-commerce platform built with Laravel, featuring a user-friendly interface, secure payment gateway integration, and comprehensive admin panel.
-
-### Project 2: Real-time Chat Application
-A chat application developed using Node.js and Socket.io, supporting real-time messaging and notifications.
-
-### Project 3: RESTful API in Go
-A robust RESTful API built with Go, providing efficient and scalable endpoints for various applications.
 
 ## 📫 How to Reach Me
 
