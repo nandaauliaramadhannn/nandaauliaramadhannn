@@ -29,9 +29,8 @@ A robust RESTful API built with Go, providing efficient and scalable endpoints f
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/nanda-aulia-ramadhan](https://linkedin.com/in/nanda-aulia-ramadhan)
-- **Twitter**: [@nanda_ramadhan](https://twitter.com/nanda_ramadhan)
+- **Email**: [nandaaulia_ramadhan15@proton.me](mailto:nandaaulia_ramadhan15@proton.me)
+- **Twitter**: [@nandaaulia_ramadhan](https://twitter.com/nandaaulia_ramadhan)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
@@ -39,15 +38,6 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 
 ![Nanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-## 📂 Featured Repositories
 
-### [Online Store](https://github.com/your-github-username/online-store)
-An e-commerce platform built with Laravel.
-
-### [Chat Application](https://github.com/your-github-username/chat-application)
-A real-time chat application developed using Node.js and Socket.io.
-
-### [Go RESTful API](https://github.com/your-github-username/go-restful-api)
-A RESTful API built with Go.
 
 Thank you for visiting my profile! Have a great day! 😄
